@@ -6,3 +6,6 @@ If I solve your big problem, you can ask me to have a cup of coffee with you
 
 “1NuuQDi5syR8GkKGYZUbGTbgCtef5uquLs”
 This is the bitcoin address
+
+If you still don't understand, you can contact me
+My discord:xinwoteam1#2642
